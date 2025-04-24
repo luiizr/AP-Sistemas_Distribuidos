@@ -26,5 +26,3 @@ Esta apresentação foi desenvolvida como parte dos requisitos da disciplina de 
 ## 📌 Observações
 
 O foco do projeto é demonstrar a aplicação de redes sem fio em sistemas distribuídos, com ênfase no modelo NDN como alternativa mais leve e segura para redes veiculares.
-
-https://gamma.app/docs/NDN-Waze-Um-Sistema-Distribuido-para-Gerenciamento-de-Trafego-Vei-va2pf3pfqxxdkan
