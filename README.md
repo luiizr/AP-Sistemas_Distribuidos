@@ -20,6 +20,7 @@ Esta apresentação foi desenvolvida como parte dos requisitos da disciplina de 
 ## 📎 Conteúdo do repositório
 
 - `apresentacao.pdf`: Arquivo com os slides da apresentação.
+- `ndn-waze.pdf`: Arquivo do artigo utilizado como base de estudo para realizar essa pesquisa.
 
 ---
 
